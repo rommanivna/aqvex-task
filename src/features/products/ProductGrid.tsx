@@ -18,9 +18,9 @@ export default function ProductGrid() {
 
   return (
     <div className="grid grid-cols-4 gap-6">
-      {/* Додаємо : Product для аргументу та використовуємо спред {...product} */}
+      {/*  */}
       {data?.map((product: Product) => (
-        <ProductCard key={product.id} {...product} />
+        <ProductCard product={product} key={product.id} />
       ))}
     </div>
   );
