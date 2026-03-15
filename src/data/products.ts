@@ -1,0 +1,25 @@
+import type { Product } from "../types/product"
+
+export const products: Product[] = [
+  {
+    id: "1",
+    title: "Зимовий склоомивач автомобільний",
+    image: "/product.png",
+    price: 445,
+    oldPrice: 500,
+    rating: 4,
+    reviews: 153,
+    volume: "250 мл",
+    inStock: true
+  },
+  {
+    id: "2",
+    title: "Засіб для миття скла",
+    image: "/product.png",
+    price: 445,
+    rating: 5,
+    reviews: 98,
+    volume: "250 мл",
+    inStock: true
+  }
+]
