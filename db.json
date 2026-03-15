@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Зимовий склоомивач автомобільний",
-    "image": "/product.png",
+    "image": "/picture.png",
     "price": 445,
     "oldPrice": 500,
     "rating": 4,
@@ -13,7 +13,7 @@
   {
     "id": "2",
     "title": "Засіб для миття скла",
-    "image": "/product.png",
+    "image": "/picture.png",
     "price": 445,
     "rating": 5,
     "reviews": 98,
